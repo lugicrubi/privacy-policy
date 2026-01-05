@@ -98,4 +98,19 @@ Parents can contact us to:
 
 ---
 
-*This is a testing version of our privacy policy. A comprehensive policy will be published before the app's official release.*
+
+## Account Deletion
+
+To request deletion of your account and all associated data, please email us at ludwig.crabber@gmail.com with the subject line "Account Deletion Request" and include:
+- The email address associated with your account
+- Confirmation that you want to delete all data
+
+We will process your request within 30 days and delete:
+- Your account information
+- All word lists you created
+- Practice statistics and learning progress
+- Subscription information
+
+Once deleted, this data cannot be recovered.
+
+- It is also possible to delete your account in the app's account settings pages.
