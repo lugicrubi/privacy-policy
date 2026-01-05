@@ -1,5 +1,5 @@
-# FirewordsPrivacyPolicy
-Firewords Privacy Policy
+# Firewords
+
 
 # Privacy Policy
 
