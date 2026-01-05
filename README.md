@@ -1,0 +1,2 @@
+# FirewordsPrivacyPolicy
+Firewords Privacy Policy
